@@ -9,4 +9,4 @@ caso esteja usando máquina virtual é necessário a máquina ter
 <br>
 recomendo a placa de rede em modo bridge para estar na mesma rede de sua máquina
 <br>
-<h2>NECESSÁRIO ESTAR COMO ROOT<¹h2>
+<h2>NECESSÁRIO ESTAR COMO ROOT</h2>
