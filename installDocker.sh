@@ -1,6 +1,6 @@
 ##iniciar script bash
 #!/bin/bash
-
+ 
 ## atualizar sistema
 apt update -y
 apt upgrade -y
